@@ -1,0 +1,46 @@
+1) Validate a palindrome string without using String operations.
+
+Example: 
+
+Input: rocheDiagnoSTicsBelmont
+	Output: false
+	
+
+Input: ABCDCBA
+	Output: true
+
+
+
+2) Write a JavaScript program to sort the items of an array.
+ 
+	Example: var arr1 = [ 3, 8, 7, 6, 5, -4, 3, 2, 1 ];
+	
+Output : -4,-3,1,2,3,5,6,7,8
+
+
+3) Find common elements in two arrays
+ 
+	
+example
+
+	a=[1,2,3,9]
+b=[1,2,3,4,5]
+
+ output== > [1,2,3]
+
+
+
+4) Write a JavaScript program for the following pattern
+	
+*  
+	
+* *  
+	
+* * * 
+* * * * 
+
+* * * * *
+
+
+
+5) Write a JavaScript function that reverse a number ?
